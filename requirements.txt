@@ -1,0 +1,4 @@
+pyautogui
+pywinauto
+google-genai
+dotenv
